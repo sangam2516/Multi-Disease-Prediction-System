@@ -18,3 +18,5 @@ This is the MDP (Machine Learning Decision Prediction) project.
 
 ## Requirements
 See `requirements.txt` for project dependencies.
+
+venv\Scripts\activate
